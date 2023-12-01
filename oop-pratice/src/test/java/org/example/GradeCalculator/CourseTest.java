@@ -1,4 +1,4 @@
-package org.example;
+package org.example.GradeCalculator;
 
 import org.assertj.core.api.Assertions;
 import org.junit.jupiter.api.DisplayName;
