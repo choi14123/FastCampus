@@ -1,4 +1,4 @@
-package org.example;
+package org.example.Calculator;
 
 import org.assertj.core.api.Assertions;
 import org.junit.jupiter.api.DisplayName;

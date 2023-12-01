@@ -1,4 +1,4 @@
-package org.example;
+package org.example.Calculator;
 
 public class Calculator {
     public static int calculate(int operand1, String operator, int operand2) {
