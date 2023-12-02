@@ -4,26 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9e2cd8dd-010c-4449-b9c4-9ee1bfdad95f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/was-practice/src/main/java/org/example/ClientRequestHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/was-practice/src/main/java/org/example/CustomerWebApplicationServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/was-practice/src/main/java/org/example/HttpRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/was-practice/src/main/java/org/example/HttpResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/was-practice/src/main/java/org/example/QueryString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/was-practice/src/main/java/org/example/QueryStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/was-practice/src/main/java/org/example/RequestLine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/was-practice/src/main/java/org/example/calculator/tobe/MultiplicationOperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/was-practice/src/main/java/org/example/counter/Counter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/was-practice/src/test/java/org/example/QueryStringTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/was-practice/src/test/java/org/example/QueryStringsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/was-practice/src/test/java/org/example/RequestLineTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/was-practice/test.http" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/counter/RaceConditionDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/counter/RaceConditionDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/was-practice/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/was-practice/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/was-practice/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/was-practice/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/was-practice/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/was-practice/src/main/java/org/example/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/was-practice/src/main/java/org/example/calculator/domain/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/was-practice/src/main/java/org/example/calculator/domain/Calculator.java" afterDir="false" />
-    </list>
+    <list default="true" id="9e2cd8dd-010c-4449-b9c4-9ee1bfdad95f" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
